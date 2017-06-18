@@ -2,5 +2,6 @@
 # encoding: utf-8
 
 patch:
-  "style/layout/max_entries": 5 # 此處爲候選項的個數，過多會導致候選項顯示不完整
-  "style/layout/min_length": 1 # 此處不要修改，以確保可以顯示候選
+  "style/layout/max_entries": 5 # 此處爲候選項的個數，過多會導致候選項顯示不完整，參考範圍 3-5
+  "style/layout/min_length": 1 # 此處不要修改，以確保可以顯示候選項
+  "style/layout/sticky_lines": 0 # 此處爲候選項固頂數，過多同樣會導致候選項顯示不完整，參考範圍 0-1
