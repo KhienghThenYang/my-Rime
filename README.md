@@ -1,2 +1,12 @@
 # my-Rime
-something about Rime usage
+
+## 輸入法候選欄不顯示
+
+Android 手機上的 Rime 實現——同文輸入法——在特定軟件的特定情況下無法顯示候選欄，目前出現這一狀況的有：
+
+* B 站（嗶哩嗶哩）全屏播放視頻時發送彈幕
+* 具有 Terminal 操作界面的終端類軟件 (VimTouch, Termux)
+
+點擊 [這裏](https://gist.github.com/) 查看一個臨時性的解決方案。
+
+“叫我 **慶天** ！” “好的，小七！”
