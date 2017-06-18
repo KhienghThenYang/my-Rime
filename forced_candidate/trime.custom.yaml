@@ -1,1 +1,6 @@
+# trime.custom.yaml
+# encoding: utf-8
 
+patch:
+  "style/layout/max_entries": 5 # 此處爲候選項的個數，過多會導致候選項顯示不完整
+  "style/layout/min_length": 1 # 此處不要修改，以確保可以顯示候選
