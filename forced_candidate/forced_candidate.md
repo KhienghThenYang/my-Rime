@@ -20,6 +20,6 @@ patch:
 
 將 `trime.custom.yaml` 放入 Android 設備的 `rime/` 目錄，打開同文輸入法主界面，點擊部署等待完成即可。此時輸入法即可顯示出候選項。
 
-一般 `，` 和 `。` 爲候選項的翻頁鍵（僅當存在候選項時可用）,若仍無法翻頁，可參閱 [**〔trime.yaml詳解#佈局调整〕**](https://github.com/osfans/trime/wiki/trime.yaml%E8%A9%B3%E8%A7%A3#%E4%BD%88%E5%B1%80%E8%B0%83%E6%95%B4) 指定鍵盤中的一對按鍵爲翻頁鍵。
+一般 `，` 和 `。` 爲候選項的翻頁鍵（僅當存在候選項時可用），若仍無法翻頁，可參閱 [**〔trime.yaml詳解#佈局调整〕**](https://github.com/osfans/trime/wiki/trime.yaml%E8%A9%B3%E8%A7%A3#%E4%BD%88%E5%B1%80%E8%B0%83%E6%95%B4) 指定鍵盤中的一對按鍵爲翻頁鍵。
 
 “叫我 **慶天** ！” “好的，小七！”
