@@ -1,10 +1,6 @@
 # 顯示輸入法候選欄
 
-~~~
-不熟悉如何定製的同學請先閱讀 [**〔定製指南〕**]
-~~~
-
-(https://github.com/rime/home/wiki/CustomizationGuide) 。
+不熟悉如何定製的同學請先閱讀 [**〔定製指南〕**](https://github.com/rime/home/wiki/CustomizationGuide) 。
 
 同文輸入法主題與配色方案的設定檔命名格式爲 `*.trime.yaml` ，用戶對其定製的自定義檔命名格式爲 `*.trime.custom.yaml` 。
 
