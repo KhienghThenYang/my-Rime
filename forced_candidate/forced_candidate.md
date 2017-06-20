@@ -30,7 +30,7 @@ patch:
   "menu/page_size": 5 # 此鍵值應與 max_entries 的鍵值相等
 ```
 
-或者直接 [**此處右鍵另存爲**](https://raw.githubusercontent.com/ThomasHawaiiKing/my-Rime/master/forced_candidate/trime.custom.yaml) 可下載 `default.custom.yaml` 的參考設定檔。
+或者直接 [**此處右鍵另存爲**](https://raw.githubusercontent.com/ThomasHawaiiKing/my-Rime/master/forced_candidate/default.custom.yaml) 可下載 `default.custom.yaml` 的參考設定檔。
 
 
 將 `trime.custom.yaml` （和 `default.custom.yaml` ，如果有的話）放入 Android 設備的 `rime/` 目錄，打開同文輸入法主界面，點擊部署等待完成。此時輸入法即可顯示出候選項。
