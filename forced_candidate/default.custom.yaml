@@ -1,0 +1,6 @@
+# trime.custom.yaml
+# encoding: utf-8
+# “叫我慶天！” “好的，小七！”
+
+patch:
+  "menu/page_size": 5 # 此鍵值應與 max_entries 的鍵值相等
